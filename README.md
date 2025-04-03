@@ -1,8 +1,6 @@
-# Hi 👋, I'm Sandra
+### <p align="center"><strong>Hi 👋, I'm Sandra</strong></p>
 
 ### 🚀 Software Engineer | Quality Assurance Engineer | 🎥 UGC Creator
-
-
 
 ---
 
@@ -49,10 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozokolosandra&show_icons=true&locale=en&layout=compact" alt="ozokolosandra" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozokolosandra&" alt="ozokolosandra" />
 </p>
 
 ---
