@@ -1,6 +1,8 @@
 # Hi 👋, I'm Sandra
 
-### A passionate Fullstack Developer and QA Engineer
+### 🚀 Software Engineer | Quality Assurance Engineer | 🎥 UGC Creator
+
+
 
 ---
 
@@ -49,7 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozokolosandra&show_icons=true&locale=en&layout=compact" alt="ozokolosandra" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozokolosandra&" alt="ozokolosandra" />
+</p>
 
 ---
 
